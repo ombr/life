@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "d65aa1097e45b4e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "51b06e57a244101a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc34d7e21ad2fdde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "life.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0bd1b967ecae1769",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "18aab90fa00739f7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "99e5a506a7368bbb",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "85fe660ad9262761",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "6dac2de456ce5b3b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1b53e6a0ca1ecff8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b7725b368e659016",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "life.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d9215f783a7c6dd9",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "life.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "51529f90596a7c8e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "life.md"
+          }
+        }
+      },
+      {
+        "id": "e8fca7bd0ea35172",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e8fca7bd0ea35172",
+  "lastOpenFiles": [
+    "life.md",
+    "life.example.md",
+    "index.html",
+    "config.json",
+    "config.example.json",
+    "README.md"
+  ]
+}
